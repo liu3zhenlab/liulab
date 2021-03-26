@@ -6,6 +6,12 @@ title: People
 type: page
 ---
 
+**Dr. Sanzhen Liu** (**PI**)  
+[liu3zhen@ksu.edu](mailto:liu3zhen@ksu.edu)  
+[CV](/media/resume.pdf)  
+<img src="/media/people/liu.jpg" width="200"/>
+---  
+
 **Dr. Cheng He** (Research Associate)  
 [hecheng@ksu.edu](mailto:hecheng@ksu.edu)  
 <img src="/media/people/he.jpg" width="200"/>
@@ -21,7 +27,7 @@ type: page
 <img src='/media/people/lin.jpg' width='200'/>
 ---
 
-**Ha Le** (Ph.D. student)  
+**Ha Le** (M.S. student)  
 [halequang314@ksu.edu](mailto:halequang314@ksu.edu)
 <img src='/media/people/le.jpg' width='200'/>
 ---
@@ -30,4 +36,3 @@ type: page
 [yangfanh@ksu.edu](mailto:yangfanh@ksu.edu)  
 <img src='/media/people/hao.jpg' width='200'/>
 ---
-

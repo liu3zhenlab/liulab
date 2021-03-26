@@ -1,8 +1,8 @@
 ---
-date: "2020-01-07T00:00:00Z"
+date: "2021-02-1T00:00:00Z"
 external_link: ""
 image:
-  caption: designer TALe
+  caption: Wheat blast
   focal_point: Smart
 summary: Genetic and genomic studies related to plant pathogens, particularly, mini-chromosomes of the fungus causing blast diseases.
 tags:

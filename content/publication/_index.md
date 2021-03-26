@@ -6,6 +6,11 @@ title: Publications
 type: page
 ---
 
+## 2021
+- G Lin, C He, J Zheng, DH Koo, H Le, H Zheng, D Koo, H Le, H Zheng, TM Tamang, J Lin, Y Liu, M Zhao, Y Hao, F McFarland, B Wang, Y Qin, H Tang, DR McCarty, H Wei, MJ Cho, S Park, H Kaeppler, S Kaeppler, Y Liu, NM Springer, PS Schnable, G Wang, FF, S Liu. (2021). Chromosome-level genome assembly of a regenerable maize inbred line A188, bioRxiv, [2020.09.09.289611](doi.org/10.1101/2020.09.09.289611)  
+- M Zhao, Z Peng, Y Qin, L Zhang, B Tian, Y Chen, Y Liu, G Lin, H Zheng, C He, K Lv, HN Trick, Y Liu, MJ Cho, S Park, H Wei, J Zheng, FF White, S Liu. (2021). Bacterium-enabled transient gene activation by artificial transcription factor for resolving gene regulation in maize, bioRxiv, [2021.02.05.429970](doi.org/10.1101/2021.02.05.429970)
+- W Deng, K Zhang, C He, S Liu, H Wei. (2021). HB-PLS: A statistical method for identifying biological process or pathway regulators by integrating Huber loss and Berhu penalty with partial least squares regression 1:6 [10.48130/FR-2021-0006](doi:10.48130/FR-2021-0006)
+
 ## 2020
 - C He, G Lin, H Wei, H Tang, FF White, B Valent, S Liu. (2020). Factorial estimating assembly base errors using k-mer abundance difference (KAD) between short reads and genome assembled sequences, NAR Genomics and Bioinformatics, lqaa075 [10.1093/nargab/lqaa075](doi.org/10.1093/nargab/lqaa075)
 - J Xie, G Guo, Y Wang, T Hu, L Wang, J Li, D Qiu, Y Li, Q Wu, P Lu, Y Chen, L Dong, M Li, H Zhang, P Zhang, K Zhu, B Li, K Deal, Y Zhang, M Luo, S Liu, Y Gu, H Li, Z Liu. (2020). A rare single nucleotide variant in Pm5e confers powdery mildew resistance in common wheat. New Phytologist. [10.1111/nph.16762](https://doi.org/10.1111/nph.16762)

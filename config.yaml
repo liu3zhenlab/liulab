@@ -57,7 +57,7 @@ related:
   includeNewer: yes
   indices:
     - name: title
-      weight: 60
+      weight: 30
     - name: summary
       weight: 50
     - name: tags
